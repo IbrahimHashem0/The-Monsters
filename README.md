@@ -1,5 +1,5 @@
 Rules of the game : 
-1- You are $ symbol and the points is *
+1- You are $ symbol and the points are *
 2- You have a health and sheilds and you should jumps point by point to reach the last point.
 3- You will choose where to move you only can move to the right or up right ordown right.
 4- You will find at every point you jump to it a extra health or extra shieldsor a monster that you will fight him.
